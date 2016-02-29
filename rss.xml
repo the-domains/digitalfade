@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Preserving Family Memories]]></title>
         <description><![CDATA[Preserving Family Memories]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/digitalfade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 04:14:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 17:31:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/digitalfade/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The concept of preserving you family memories digitally is flawed!</p>]]></description>
-            <link>undefinedda2909ad-9f6d-4136-a300-fc3a6b501eef/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae2036a7-1dc0-4c04-9885-3a005a4b280a.jpg">]]></description>
+            <link>https://thegrid.ai/digitalfade/da2909ad-9f6d-4136-a300-fc3a6b501eef/index.html</link>
             <guid isPermaLink="false">da2909ad-9f6d-4136-a300-fc3a6b501eef</guid>
-            <pubDate>Thu, 25 Feb 2016 04:14:43 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 17:31:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
